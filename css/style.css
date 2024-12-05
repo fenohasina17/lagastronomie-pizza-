@@ -10150,8 +10150,8 @@ h5,
 }
 
 .ftco-services {
-  background: url(../images/food.png) repeat;
-  color: #5c3d03;
+  background: url(../images/bg_4.jpg) no-repeat fixed;
+  color: #ff6f61;
 }
 .ftco-services .overlay {
   position: absolute;
@@ -10181,7 +10181,7 @@ h5,
   right: 0;
   bottom: 0;
   content: "";
-  border: 1px solid #bf7e06;
+  border: 1px solid #ff6f61;
   z-index: -1;
   -moz-transition: all 0.3s ease;
   -o-transition: all 0.3s ease;
@@ -10191,7 +10191,7 @@ h5,
 }
 .services .icon span {
   font-size: 60px;
-  color: #5c3d03;
+  color: #ff6f61;
   z-index: 1;
 }
 
@@ -10203,7 +10203,7 @@ h5,
 }
 
 .services .media-body {
-  color: #5c3d03;
+  color: #ff6f61;
 }
 
 .services:hover .icon span {
@@ -10215,7 +10215,7 @@ h5,
   -webkit-transform: rotate(135deg);
   -ms-transform: rotate(135deg);
   transform: rotate(135deg);
-  background: #f8b500;
+  background: #ff6f61;
 }
 
 .services-wrap {
