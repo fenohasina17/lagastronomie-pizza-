@@ -313,7 +313,9 @@ input[type="datetime-local"],
 input[type="month"] {
   -webkit-appearance: listbox;
 }
-
+p{
+  color: white !important;
+}
 textarea {
   overflow: auto;
   resize: vertical;
